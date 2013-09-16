@@ -23,4 +23,5 @@ Go - another approach of Object Oriented paradigms
 *   Referenzen
 *   Buchempfehlung
 *   Organisation die Go verwenden
+
 http://blog.starptech.de/post/2013/go-ein-einstieg-das-type-system-german/
